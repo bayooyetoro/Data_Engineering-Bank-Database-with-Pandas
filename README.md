@@ -1,6 +1,7 @@
 # Data_Engineering-Project: Orchesrating a Bank Database with Pandas and SQLAlchemy
 This is a data engineering project for an imaginary UK-based financial institution called `Mongo Bank`.
 The bank aim to leverage data analytics to orchestrate a database for marketing data to handle their upcoming campaigns' data for further analytics.
+Solution to this work is in the (`Mongo.ipynb` file)[./mongo.ipynb]
 
 ## Tasks
 As the Bank aim to conduct more campaigns in the future, they’d love you to implement a robust RDBMS database capable of accommodating data from future campaigns, with a schema 
